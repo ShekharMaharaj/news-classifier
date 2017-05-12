@@ -4,7 +4,7 @@ All code authored by Shekhar Maharaj, and no external machine learning libraries
 
 Below are brief descriptions of each class:
 
-NaiveBayesClassifier - Entire program runs from this class. Instances of objects are created using the input. Runs classification algorithm on input and performs test to determine anount of correctly classified articles.
+NaiveBayesClassifier - Entire program runs from this class. Instances of objects are created using the input. Runs classification algorithm on input and performs test to determine amount of correctly classified articles.
 
 FileManager - Sets up training and test data into structured input for the Classifier class.
 
